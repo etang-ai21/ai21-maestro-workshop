@@ -6,5 +6,6 @@ readme = "README.md"
 requires-python = ">=3.10"
 dependencies = [
     "ai21>=4.2.0",
+    "fastmcp>=2.12.5",
     "ipykernel>=7.0.1",
 ]
